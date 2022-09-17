@@ -139,7 +139,7 @@ main section:nth-child(2) {
 main section:nth-child(3) {
   animation-delay: 0.8s;
 }
-+ @keyframes fromTop {
+@keyframes fromTop {
   from {
     opacity: 0;
     transform: translateY(-30px);
